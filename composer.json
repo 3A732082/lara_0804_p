@@ -6,5 +6,7 @@
             "email": "tkmk7q8qq@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.41"
+    }
 }
